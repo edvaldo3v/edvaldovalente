@@ -11,5 +11,9 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "bun-plugin-tailwind": "^0.0.14",
+    "hono": "^4.7.4"
   }
 }
